@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sfotros/calculator-react/static/css/main.7fa15487.chunk.css",
+    "main.js": "/sfotros/calculator-react/static/js/main.b093aac8.chunk.js",
+    "main.js.map": "/sfotros/calculator-react/static/js/main.b093aac8.chunk.js.map",
+    "runtime-main.js": "/sfotros/calculator-react/static/js/runtime-main.5be0fdd5.js",
+    "runtime-main.js.map": "/sfotros/calculator-react/static/js/runtime-main.5be0fdd5.js.map",
+    "static/js/2.2179ff43.chunk.js": "/sfotros/calculator-react/static/js/2.2179ff43.chunk.js",
+    "static/js/2.2179ff43.chunk.js.map": "/sfotros/calculator-react/static/js/2.2179ff43.chunk.js.map",
+    "index.html": "/sfotros/calculator-react/index.html",
+    "precache-manifest.e59fecd661ff8103d38a83205347f691.js": "/sfotros/calculator-react/precache-manifest.e59fecd661ff8103d38a83205347f691.js",
+    "service-worker.js": "/sfotros/calculator-react/service-worker.js",
+    "static/css/main.7fa15487.chunk.css.map": "/sfotros/calculator-react/static/css/main.7fa15487.chunk.css.map",
+    "static/js/2.2179ff43.chunk.js.LICENSE.txt": "/sfotros/calculator-react/static/js/2.2179ff43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be0fdd5.js",
+    "static/js/2.2179ff43.chunk.js",
+    "static/css/main.7fa15487.chunk.css",
+    "static/js/main.b093aac8.chunk.js"
+  ]
+}
